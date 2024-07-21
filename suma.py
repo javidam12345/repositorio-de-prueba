@@ -9,7 +9,7 @@ def restar(a, b):
 def multiplicar(a, b):
     return a * b
 
-
+#comentario
 def dividir(a, b):
     if b == 0:
         raise ValueError("No se puede dividir por cero")
